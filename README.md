@@ -40,31 +40,31 @@ Instrumentalness %
 
 The dataset contains Spotify track information including:
 
-Column	Description
+Column	                            Description
 
-Track Name	Name of the song
+Track Name	                        Name of the song
 
-Artist(s)_name	Artist(s) performing the track
+Artist(s)_name	                    Artist(s) performing the track
 
-Streams	Total number of streams
+Streams	                            Total number of streams
 
-Release Date	Song release date
+Release Date	                    Song release date
 
-BPM	Beats per minute
+BPM	                                Beats per minute
 
-Danceability_%	Measure of danceability
+Danceability_%	                    Measure of danceability
 
-Energy_%	Intensity and activity level
+Energy_%	                        Intensity and activity level
 
-Speechiness_%	Presence of spoken words
+Speechiness_%	                    Presence of spoken words
 
-Acousticness_%	Acoustic quality
+Acousticness_%	                    Acoustic quality
 
-Liveness_%	Presence of live audience
+Liveness_%	                        Presence of live audience
 
-Instrumentalness_%	Likelihood of instrumental track
+Instrumentalness_%	                Likelihood of instrumental track
 
-Cover_URL	Album cover image
+Cover_URL	                        Album cover image
 
 🧠 Data Model
 
