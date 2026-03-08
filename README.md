@@ -41,18 +41,31 @@ Instrumentalness %
 The dataset contains Spotify track information including:
 
 Column	Description
+
 Track Name	Name of the song
+
 Artist(s)_name	Artist(s) performing the track
+
 Streams	Total number of streams
+
 Release Date	Song release date
+
 BPM	Beats per minute
+
 Danceability_%	Measure of danceability
+
 Energy_%	Intensity and activity level
+
 Speechiness_%	Presence of spoken words
+
 Acousticness_%	Acoustic quality
+
 Liveness_%	Presence of live audience
+
 Instrumentalness_%	Likelihood of instrumental track
+
 Cover_URL	Album cover image
+
 🧠 Data Model
 
 The project uses a Star Schema Model:
@@ -113,9 +126,15 @@ Which artist track is the most streamed?
 What music characteristics are common in popular songs?
 
 🛠 Tools & Technologies
+
 Tool	Purpose
+
 Power BI	Data visualization
+
 DAX	Data modeling & calculations
+
 Power Query	Data transformation
+
 GitHub	Version control
+
 Spotify Dataset	Data source
